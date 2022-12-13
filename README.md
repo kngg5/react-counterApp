@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+# Counter app
+### This app is counter app to just increment or decrement.
+![react-final](https://user-images.githubusercontent.com/61284667/207434037-1818c512-8c20-4dcb-ac81-2153e1573bc7.png)
+![react-final2](https://user-images.githubusercontent.com/61284667/207434076-0faee4c8-bd77-4058-8864-f3e40b5da6ac.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
